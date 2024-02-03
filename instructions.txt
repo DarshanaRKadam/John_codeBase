@@ -1,0 +1,6 @@
+Database design
+data integrity
+data security
+data maintainence
+normalization
+backups and recovery
